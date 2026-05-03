@@ -1,0 +1,3 @@
+drug_a	inhibit	protein_b
+drug_b	activate	protein_c
+drug_c	bind	protein_b

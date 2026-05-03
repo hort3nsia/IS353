@@ -1,0 +1,1 @@
+drug_x	inhibit	protein_y
